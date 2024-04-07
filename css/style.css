@@ -85,12 +85,6 @@ body {
     padding: 12px;
 }
 
-.aboutme-photo {
-    max-width: auto;
-    max-height: auto;
-    border-radius: 50px;
-}
-
 .projects-container {
     background: #232443;
     display: flex;
@@ -314,6 +308,7 @@ footer {
 .aboutme-photo {
     width: 100%;
     max-width: 320px;
+    border-radius: 50px;
 }
 
 
