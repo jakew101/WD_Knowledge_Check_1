@@ -114,7 +114,7 @@ body {
     
 }
 
-.contact {
+.contact-container {
     background: #29326a;
     color: #F1F1F1;
     display: flex;
@@ -124,12 +124,12 @@ body {
     padding: 12px;
 }
 
-.contact a {
+.contact-container a {
     color: #f7f1f1;
     font-family: monospace;
 }
 
-.contact a:hover {
+.contact-container a:hover {
     color: red;
 }
 
